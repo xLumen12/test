@@ -5,27 +5,25 @@ ACCOUNTS=[
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
-ORG_LOGO=""
-ORG_PHYSICAL_ADDRESS=""
-ORG_OFFICIAL_EMAIL=""
+ORG_NAME="test"
+ORG_URL="https://www.youtube.com/"
+ORG_DESCRIPTION="test you loser"
+ORG_LOGO="https://www.youtube.com/"
 
 [[PRINCIPALS]]
-name=""
+name="mylo"
 
 
 [[CURRENCIES]]
-code=""
+code="TEST"
 status="live"
 display_decimals=2
 issuer=""
 anchor_asset_type="crypto"
-name=""
-desc=""
+name="test"
+desc="GOLD MINING"
 image=""
-fixed_number=
-max_number=
+fixed_number=5000
+max_number=5000
 is_unlimited=false
-# was issued using the open and inclusive Stellar blockchain network.
+#TEST was issued using the open and inclusive Stellar blockchain network.
