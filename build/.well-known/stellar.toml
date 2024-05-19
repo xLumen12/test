@@ -1,7 +1,7 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GCX5GIP6OKJP4F4KRHH5ZFD7AN5MEL7J6T5HLXB4HORWMBI4I62F42CE",
 ]
 
 [DOCUMENTATION]
@@ -18,7 +18,7 @@ name="mylo"
 code="TEST"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GCX5GIP6OKJP4F4KRHH5ZFD7AN5MEL7J6T5HLXB4HORWMBI4I62F42CE"
 anchor_asset_type="crypto"
 name="test"
 desc="GOLD MINING"
