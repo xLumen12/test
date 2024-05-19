@@ -8,7 +8,7 @@ ACCOUNTS=[
 ORG_NAME="test"
 ORG_URL="https://www.youtube.com/"
 ORG_DESCRIPTION="test you loser"
-ORG_LOGO="https://www.youtube.com/"
+ORG_LOGO="https://i.ibb.co/x8CyB85/1200px-Tesla-logo.png"
 
 [[PRINCIPALS]]
 name="mylo"
@@ -22,7 +22,7 @@ issuer=""
 anchor_asset_type="crypto"
 name="test"
 desc="GOLD MINING"
-image=""
+image="https://i.ibb.co/x8CyB85/1200px-Tesla-logo.png"
 fixed_number=5000
 max_number=5000
 is_unlimited=false
